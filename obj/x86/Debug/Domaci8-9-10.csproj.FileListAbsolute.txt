@@ -1,0 +1,54 @@
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\bin\Debug\prodajaIgara.mdf
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\bin\Debug\prodajaIgara_log.ldf
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\bin\Debug\Domaci8-9-10.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\bin\Debug\Domaci8-9-10.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmGameStop.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmIgrice.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmKorisnik.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmPlacanje.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmProdaja.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmProdavac.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.Properties.Resources.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Domaci C#\Domaci8-9-10\Domaci8-9-10\bin\Debug\Domaci8-9-10.exe.config
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\bin\Debug\Domaci8-9-10.exe.config
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.exe
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.pdb
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\bin\Debug\prodajaIgara.mdf
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\bin\Debug\prodajaIgara_log.ldf
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\bin\Debug\Domaci8-9-10.exe
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\bin\Debug\Domaci8-9-10.pdb
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmGameStop.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmIgrice.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmKorisnik.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmPlacanje.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmProdaja.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmProdavac.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.Properties.Resources.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmIzvestaj.resources
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\RdlCompile.cache
+C:\Users\Marko\Desktop\Domaci8-9-10\Domaci8-9-10\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\bin\Debug\Domaci8-9-10.exe.config
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.exe
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.pdb
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\bin\Debug\prodajaIgara.mdf
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\bin\Debug\prodajaIgara_log.ldf
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\bin\Debug\Domaci8-9-10.exe
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\bin\Debug\Domaci8-9-10.pdb
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmGameStop.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmIgrice.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmIzvestaj.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmKorisnik.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmPlacanje.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmProdaja.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.frmProdavac.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8_9_10.Properties.Resources.resources
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\Domaci8-9-10.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\RdlCompile.cache
+C:\Users\Marko\Desktop\Seminarski i domaci\Domaci8-9-10\obj\x86\Debug\RdlCompile.compiled
